@@ -2,5 +2,4 @@
 LinkedList, Arrays, Queue, Server/Client, Sorting Algorithms, more!
 
 CS2050 
-Professor: Dr. Lakim Lakhani
-Using NetBeans
+Professor: Dr. Lakim Lakhani, using NetBeans IDE
