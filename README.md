@@ -1,3 +1,8 @@
-# javaProgramming
-CS2050: LinkedList, Arrays, Queue, Server/Client, Sorting Algorithms, more!  
-Professor: Dr. Lakim Lakhani
+LinkedList  
+Array  
+Queue  
+Node  
+Sorting  
+Etc Java
+
+
